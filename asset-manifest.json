@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ua-appraiser/static/css/main.7acaea2f.css",
+    "main.js": "/ua-appraiser/static/js/main.1ba4c821.js",
+    "index.html": "/ua-appraiser/index.html",
+    "main.7acaea2f.css.map": "/ua-appraiser/static/css/main.7acaea2f.css.map",
+    "main.1ba4c821.js.map": "/ua-appraiser/static/js/main.1ba4c821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.1ba4c821.js"
+  ]
+}
